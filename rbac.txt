@@ -1,0 +1,33 @@
+                                Partner
+            manage                 -       admin
+            create                 -       admin
+            delete                 -       admin
+            view                   -       admin
+            update                 -       admin
+            updateOwnCompany       -       admin/partner
+            viewOwnCompany         -       admin/partner/person
+
+                                Person
+            manage                 -       admin
+            create                 -       admin
+            delete                 -       admin
+            update                 -       admin
+            manageOwnPerson        -       admin/partner
+            createOwnPerson        -       admin/partner
+            deleteOwnPerson        -       admin/partner
+            updateOwnPerson        -       admin/partner
+
+                                 User
+            manage                 -       admin
+            update                 -       admin
+            delete                 -       admin
+            view                   -       admin
+            create                 -       admin/partner
+            viewOwnPersonsProfile  -       admin/partner
+            viewOwnProfile         -       admin/partner/person
+
+
+
+
+
+
